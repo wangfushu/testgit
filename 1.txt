@@ -4,3 +4,4 @@ git tracks changes of files.
 git has a mutable index called stage
 
 git tracks changes of files 2
+my sutpid boss still watch me

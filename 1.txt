@@ -1,1 +1,4 @@
 test 1.txt
+
+git tracks changes of files.
+git has a mutable index called stage
